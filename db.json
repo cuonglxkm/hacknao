@@ -1,7 +1,7 @@
 {
     "TuVung":[
         {
-            "stt": 1,
+            "id": 1,
             "eng":"Usual",
             "vi":"Thông thường",
             "partOfSpeech":"Adj",
@@ -10,7 +10,7 @@
             "exVi":"Cô ấy đạt điểm cao như thường lệ"
         },
         {
-            "stt": 1,
+            "id": 2,
             "eng":"Usual",
             "vi":"Thông thường",
             "partOfSpeech":"Adj",
@@ -19,7 +19,7 @@
             "exVi":"Cô ấy đạt điểm cao như thường lệ"
         },
         {
-            "stt": 1,
+            "id": 3,
             "eng":"Usual",
             "vi":"Thông thường",
             "partOfSpeech":"Adj",
@@ -28,7 +28,7 @@
             "exVi":"Cô ấy đạt điểm cao như thường lệ"
         },
         {
-            "stt": 1,
+            "id": 4,
             "eng":"Usual",
             "vi":"Thông thường",
             "partOfSpeech":"Adj",
@@ -37,7 +37,7 @@
             "exVi":"Cô ấy đạt điểm cao như thường lệ"
         },
         {
-            "stt": 1,
+            "id": 5,
             "eng":"Usual",
             "vi":"Thông thường",
             "partOfSpeech":"Adj",
@@ -46,7 +46,7 @@
             "exVi":"Cô ấy đạt điểm cao như thường lệ"
         },
         {
-            "stt": 1,
+            "id": 6,
             "eng":"Usual",
             "vi":"Thông thường",
             "partOfSpeech":"Adj",
